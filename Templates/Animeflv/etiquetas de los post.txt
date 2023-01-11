@@ -1,0 +1,27 @@
+- Para indicar si nuestra entrada es una película, anime u ova utilizamos una de estas etiquetas:
+
+Película, Anime, Ova
+
+- Para agregar el título en japonés lo agregamos como una etiqueta, es obligatorio:
+
+ワンピース
+
+Si quieren eliminarlo buscan <div><span class='TxtAlt'><data:post.labels.last.name/></span></div> y lo quitan.
+
+- El rating y la cantidad de votos es automático dependiendo de los comentarios de la entrada
+
+Si tiene menos de 10 el rating será de 1.0				<b:if cond='data:post.numberOfComments lt 10'>
+Si tiene menos de 20 el rating será de 2.0				<b:elseif cond='data:post.numberOfComments lt 20'/>
+Si tiene menos de 30 el rating será de 3.0				<b:elseif cond='data:post.numberOfComments lt 30'/>
+Si tiene menos de 40 el rating será de 4.0				<b:elseif cond='data:post.numberOfComments lt 40'/>
+Si tiene menos de 50 el rating será de 5.0				<b:elseif cond='data:post.numberOfComments lt 50'/>
+
+- Para indicar el estado del anime utilizamos las etiquetas:
+
+Finalizado, En emisión
+
+- Para agregar Disqus busquen
+
+<Variable name="config.shortname" description="Shortname of Disqus" type="string" default="shortname" value="EDITAR"/>
+
+en value cambian EDITAR por su shortname.

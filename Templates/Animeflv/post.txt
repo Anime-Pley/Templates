@@ -1,0 +1,55 @@
+Etiquetas de la entrada:.   Anime, Drama, En emisión, うまよん
+
+<!--more-->
+<section class='WdgtCn'>
+  <div class='Top'>
+    <div class='Title'>Sinopsis</div>
+  </div>
+  <nav class='Nvgnrs'>
+    <a href='/search/label/Drama'>Drama</a>
+    <a href='/search/label/Acció'>Acción</a>
+    <a href='/search/label/Aventuras'>Aventuras</a>
+    <a href='/search/label/Fantasía'>Fantasía</a>
+  </nav>
+  <div class='Description'>
+    <p>
+      En un mundo muy parecido al nuestro, los grandes caballos de carreras del pasado recibieron la oportunidad de renacer como “uma musume”, chicas con las orejas y la cola de un caballo, pero que también cuentan con su velocidad y
+      resistencia. Las mejores de estas chicas tienen el privilegio de estudiar en la Academia Tracen en Tokio, con la esperanza de obtener fama y fortuna siendo tanto corredoras como idols.
+    </p>
+  </div>
+  <div style='clear: both;'></div>
+</section>
+
+<section class='WdgtCn'>
+ <div class='Top'><div class='Title'>Lista de episodios</div></div>
+ <ul class='ListCaps' id='episodeList' style='max-height: 1000px; overflow-y: auto;'>
+  <li class='fa-play-circle Next'>
+   <a href='#'>
+    <figure><img alt='' src='https://1.bp.blogspot.com/-Thwo60TxuRE/XxcvBAODNYI/AAAAAAAAQV8/iNeQJwwr_uQ8DAPOUgj7K8avZ10-YKRoACLcBGAsYHQ/s1600/proximo.jpg' /></figure>
+    <h3 class='Title'>PROXIMO EPISODIO</h3>
+    <span class='Date fa-calendar'>2020-07-28</span>
+   </a>
+  </li>
+  <li class='fa-play-circle'>
+   <a href='#'>
+    <figure><img alt='' class='lazy' src='https://4.bp.blogspot.com/-99sgYvTpuLM/Xxc5EdBfyMI/AAAAAAAAQWk/ACiPPSA6HYQtB7Shl4OWnFAXWfEl89j9ACLcBGAsYHQ/s1600/th_3.webp' /></figure>
+    <h3 class='Title'>Umayon</h3>
+    <p>Episodio 3</p>
+   </a>
+  </li>
+  <li class='fa-play-circle'>
+   <a href='#'>
+    <figure><img alt='' class='lazy' src='https://4.bp.blogspot.com/-hgj2fDz_pqk/Xxc4wDxovfI/AAAAAAAAQWY/ulUt6ZYnEyMFZ0KVy9rc92feBV7v8U8kQCLcBGAsYHQ/s1600/th_3.webp' /></figure>
+    <h3 class='Title'>Umayon</h3>
+    <p>Episodio 2</p>
+   </a>
+  </li>
+  <li class='fa-play-circle'>
+   <a href='#'>
+    <figure><img alt='' class='lazy' src='https://3.bp.blogspot.com/-8mJnwDscoaY/Xxc47rKAScI/AAAAAAAAQWc/egLX7Zkbqi0drZC6DFCrCVtOI3YyWr9jACLcBGAsYHQ/s1600/th_3.webp' /></figure>
+    <h3 class='Title'>Umayon</h3>
+    <p>Episodio 1</p>
+   </a>
+  </li>
+ </ul>
+</section>

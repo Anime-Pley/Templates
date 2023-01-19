@@ -1,0 +1,40 @@
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" data-original-height="415" data-original-width="739" src="https://1.bp.blogspot.com/-D8J45yHF5HI/XVwqFl8nlMI/AAAAAAAAN4M/Ud4dU9hMiu0PTt7LqQ-psoQiXGILClsbQCLcBGAs/s1600/images.jpg" /></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<br />
+<div style="text-align: justify;">
+<b>Capitulo1 </b>Sub Español<br />
+<div class="nextEpi"><span><i class="fa fa-newspaper-o"></i> SERVIDORES Miku</span></div>
+<div class="videos">
+    <div class="tabs">
+        <!--inicio tabs-->
+        <input type="radio" name="tabs" id="tabone" checked="checked">
+        <label for="tabone">miku</label>
+        <div class="tab">
+            <div class="video-container iframe-container">
+                <iframe width="560" height="315" src="#" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+        <input type="radio" name="tabs" id="tabtwo">
+        <label for="tabtwo">miku2</label>
+        <div class="tab">
+            <div class="video-container iframe-container">
+                <iframe width="560" height="315" src="#" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+        <input type="radio" name="tabs" id="tabthree">
+        <label for="tabthree">miku3</label>
+        <div class="tab">
+            <div class="video-container iframe-container">
+                <iframe width="560" height="315" src="#" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+            </div>
+        </div>
+    </div>
+    <!--fin tabs-->
+</div>
+<a class="button small demo" href="#">Capitulo anterior</a>
+<a class="button small demo" href="#">Siguiente Capitulo</a>
+  
+  
